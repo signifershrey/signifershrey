@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Web Developer from India</h3>
 
 - 🌱 I’m currently learning **ReactJs and Data Structures and Algorithms**
 
