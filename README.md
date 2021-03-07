@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ReactJs and Data Structures and Algorithms**
 
-- 💬 Ask me about **Javascript**
-
 - 📫 How to reach me **shreymaurya2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
